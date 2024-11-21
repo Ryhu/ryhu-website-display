@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ryhu-website/static/css/main.1ab854f0.chunk.css",
+    "main.js": "/ryhu-website/static/js/main.ccfdc3dd.chunk.js",
+    "main.js.map": "/ryhu-website/static/js/main.ccfdc3dd.chunk.js.map",
+    "runtime-main.js": "/ryhu-website/static/js/runtime-main.0553551a.js",
+    "runtime-main.js.map": "/ryhu-website/static/js/runtime-main.0553551a.js.map",
+    "static/css/2.8d660b98.chunk.css": "/ryhu-website/static/css/2.8d660b98.chunk.css",
+    "static/js/2.89571e1b.chunk.js": "/ryhu-website/static/js/2.89571e1b.chunk.js",
+    "static/js/2.89571e1b.chunk.js.map": "/ryhu-website/static/js/2.89571e1b.chunk.js.map",
+    "index.html": "/ryhu-website/index.html",
+    "precache-manifest.9c184d92cf03a64698d957d559ef5b1a.js": "/ryhu-website/precache-manifest.9c184d92cf03a64698d957d559ef5b1a.js",
+    "service-worker.js": "/ryhu-website/service-worker.js",
+    "static/css/2.8d660b98.chunk.css.map": "/ryhu-website/static/css/2.8d660b98.chunk.css.map",
+    "static/css/main.1ab854f0.chunk.css.map": "/ryhu-website/static/css/main.1ab854f0.chunk.css.map",
+    "static/js/2.89571e1b.chunk.js.LICENSE.txt": "/ryhu-website/static/js/2.89571e1b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0553551a.js",
+    "static/css/2.8d660b98.chunk.css",
+    "static/js/2.89571e1b.chunk.js",
+    "static/css/main.1ab854f0.chunk.css",
+    "static/js/main.ccfdc3dd.chunk.js"
+  ]
+}
